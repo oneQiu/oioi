@@ -8,7 +8,7 @@ export default defineConfig({
   resolve: {
     extensions: ['.ts', '.tsx', '.js'],
     alias: {
-      '@/*': '/src/*'
+      '@': '/src'
     }
   }
 });
