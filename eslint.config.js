@@ -22,7 +22,9 @@ export default [
       'no-undef-init': 'off',
       'no-unused-expressions': 'off',
       'no-unused-labels': 'off',
-      'react/react-in-jsx-scope': 'off'
+      'react/react-in-jsx-scope': 'off',
+      '@typescript-eslint/no-explicit-any': 'off',
+      'react/prop-types': 'off'
     }
   }
 ];
