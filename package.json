@@ -11,6 +11,7 @@
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
     "@iconify/react": "^5.0.2",
+    "@openreplay/tracker": "^15.0.1",
     "@radix-ui/react-accordion": "^1.2.1",
     "@radix-ui/react-alert-dialog": "^1.1.2",
     "@radix-ui/react-aspect-ratio": "^1.1.0",
@@ -51,6 +52,7 @@
     "nanoid": "^5.0.9",
     "next": "15.0.3",
     "next-themes": "^0.4.3",
+    "posthog-js": "^1.194.1",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-day-picker": "^8.10.1",
     "react-dom": "19.0.0-rc-66855b96-20241106",
